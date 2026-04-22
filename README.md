@@ -108,3 +108,44 @@ To fully utilize all features, your CSV should include:
 ### Run Locally
 1. Clone or download this repository  
 2. Make sure files are in the same directory:
+3. Open `index.html` in your browser  
+
+### Deploy Online
+- Upload files to:
+- GitHub Pages  
+- Netlify  
+- Vercel  
+
+---
+
+## 🎯 Use Cases
+
+- Player development analysis  
+- Coaching insights  
+- Pitch design evaluation  
+- Baseball analytics projects  
+- Academic research presentations  
+
+---
+
+## ⚠️ Notes
+
+- The ML Model tab requires `pred_x` and `pred_z`  
+- Missing fields will limit certain visualizations  
+- Runs entirely on the client (no backend required)  
+
+---
+
+## 🔮 Future Improvements
+
+- Real machine learning model integration  
+- Player comparison tools  
+- Exportable reports (PDF/CSV)  
+- Advanced pitch movement analytics  
+- Team-wide dashboards  
+
+---
+
+## 👨‍💻 Author
+
+Developed as a **baseball analytics project** combining sports performance and data science.
