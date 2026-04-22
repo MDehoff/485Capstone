@@ -1,13 +1,13 @@
-#⚾ Trackman Pitching Analysis Dashboard
-##📊 Overview
-###The Trackman Pitching Analysis Dashboard is a web-based analytics tool designed to help baseball players, coaches, and analysts evaluate pitching performance ###using Trackman CSV data.
-###By simply uploading a CSV file, users can visualize pitch metrics, analyze strengths and weaknesses, and receive data-driven coaching recommendations—all in ###an interactive dashboard.
-#🚀 Features
-##📈 Dashboard Visualizations
-###Pitch Usage Pie Chart – Shows pitch mix distribution
-###Velocity Bar Chart – Displays average velocity per pitch type
-###Spray Chart – Visualizes batted ball locations
-###Pitch Location Heatmap – Shows pitch placement within the strike zone
+⚾ Trackman Pitching Analysis Dashboard
+📊 Overview
+The Trackman Pitching Analysis Dashboard is a web-based analytics tool designed to help baseball players, coaches, and analysts evaluate pitching performance using Trackman CSV data.
+By simply uploading a CSV file, users can visualize pitch metrics, analyze strengths and weaknesses, and receive data-driven coaching recommendations—all in an interactive dashboard.
+🚀 Features
+📈 Dashboard Visualizations
+Pitch Usage Pie Chart – Shows pitch mix distribution
+Velocity Bar Chart – Displays average velocity per pitch type
+Spray Chart – Visualizes batted ball locations
+Pitch Location Heatmap – Shows pitch placement within the strike zone
 📉 Performance Metrics
 Total pitches thrown
 Average velocity (MPH)
